@@ -1,4 +1,4 @@
-# entities_lineage
+# data-lineage
 
 Локальный property graph для triage Greenplum-пайплайна: топология таблиц (STG → ODS → DDS → DM) и row counts хранятся **раздельно** в SQLite; анализ — NetworkX; UI — Streamlit + Pyvis.
 
